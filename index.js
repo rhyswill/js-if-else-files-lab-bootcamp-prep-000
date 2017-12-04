@@ -8,3 +8,7 @@ else { console.log("Expected the name to be Susan")
 module.exports = { name, height
 }
 
+if (height==="74") {console.log("The height is correct") 
+}
+else {console.log("Expected the height to be 74")
+}
